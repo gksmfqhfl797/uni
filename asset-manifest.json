@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uni/static/css/main.145d0188.chunk.css",
+    "main.js": "/uni/static/js/main.6dee793e.chunk.js",
+    "main.js.map": "/uni/static/js/main.6dee793e.chunk.js.map",
+    "runtime~main.js": "/uni/static/js/runtime~main.ff49a7bc.js",
+    "runtime~main.js.map": "/uni/static/js/runtime~main.ff49a7bc.js.map",
+    "static/js/2.714a5e69.chunk.js": "/uni/static/js/2.714a5e69.chunk.js",
+    "static/js/2.714a5e69.chunk.js.map": "/uni/static/js/2.714a5e69.chunk.js.map",
+    "index.html": "/uni/index.html",
+    "precache-manifest.8c671f0186b44007c5017b63dd3e8883.js": "/uni/precache-manifest.8c671f0186b44007c5017b63dd3e8883.js",
+    "service-worker.js": "/uni/service-worker.js",
+    "static/css/main.145d0188.chunk.css.map": "/uni/static/css/main.145d0188.chunk.css.map",
+    "static/media/index.css": "/uni/static/media/unicef.d5fc7125.jpg"
+  }
+}
